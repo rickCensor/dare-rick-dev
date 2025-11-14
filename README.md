@@ -16,7 +16,7 @@
 ---
 
 ## 📚 Learning Journey
-→ Track progress: [Project Board](#) *(will add in Step 4)*
+→ Track progress: [Project Board](#) 
 
 ---
 
